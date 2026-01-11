@@ -1,0 +1,37 @@
+# Data Processing and Analysis
+pandas==2.1.4
+numpy==1.24.3
+scipy==1.11.4
+
+# Data Visualization
+matplotlib==3.8.2
+seaborn==0.13.0
+plotly==5.18.0
+bokeh==3.3.1
+
+# Machine Learning
+scikit-learn==1.3.2
+
+# Jupyter and IPython
+jupyter==1.0.0
+jupyterlab==4.0.9
+ipython==8.18.1
+notebook==7.0.6
+
+# Database
+pymysql==1.1.0
+psycopg2-binary==2.9.9
+sqlalchemy==2.0.23
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+
+# Code Quality
+black==23.12.0
+flake8==6.1.0
+pylint==3.0.3
+
+# Excel handling
+openpyxl==3.1.2
+xlsxwriter==3.1.8
